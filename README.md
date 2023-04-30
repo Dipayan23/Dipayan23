@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 👋, I'm Dipayan Sarkar</h1>
 <h3 align="center">I am a 1st year Computer Science and Engineering student at academy of Technology</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1124806/screenshots/4876982/ezgif.com-optimize.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/795597/screenshots/6081444/mobile_development2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipayan23&label=Profile%20views&color=0e75b6&style=flat" alt="dipayan23" /> </p>
 
