@@ -17,7 +17,7 @@
 <a href="https://twitter.com/dipayansarkar04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipayansarkar04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dipayan sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipayan sarkar" height="30" width="40" /></a>
 <a href="https://fb.com/dipayan sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipayan sarkar" height="30" width="40" /></a>
-<a href="https://discord.gg/#9757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9757" height="30" width="40" /></a>
+<a href="https://discord.gg/#9757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9757" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
