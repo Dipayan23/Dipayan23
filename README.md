@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FElysian01&psig=AOvVaw14bv-PZVscQBIuWgGHvfOr&ust=1705416592385000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjE8obS34MDFQAAAAAdAAAAABAD)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FElysian01&psig=AOvVaw14bv-PZVscQBIuWgGHvfOr&ust=1705416592385000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjE8obS34MDFQAAAAAdAAAAABAD)]
 
 <h1 align="center">Hello 👋, I'm Dipayan Sarkar</h1>
 <h3 align="center">I am a 2nd year Computer Science and Engineering student in Academy of Technology.</h3>
