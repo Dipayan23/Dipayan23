@@ -1,4 +1,4 @@
-# Hello 👋, I'm Dipayan Sarkar a 3rd year Computer Science and Engineering student in Academy of Technology.
+# Hello 👋, I'm Dipayan Sarkar a 4th year Computer Science and Engineering student in Academy of Technology.
 🌱 I’m currently learning React<br>💬 Ask me about Flutter, Android Development , Web Development<br>⚡ Fun fact I love learning new things
 
 
